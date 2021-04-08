@@ -25,7 +25,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Humidity Sensor accessory
 * Barometric Sensor accessory _(requires Eve app)_
 * Characteristic for detecting your altitude _(used for proper barometric calculation, requires Eve app)_
-* **12 hour [Weather Forecast]()**  _(requires Eve app)_
+* **12 hour [Weather Forecast](https://github.com/HomeKidd/ESP8266-HomeKit-New-Eve-Weather/wiki/Weather-Forecast)**  _(requires Eve app)_
 * **[SSD1306 OLED screen](https://s.click.aliexpress.com/e/_d7Bj0V3)** 
 * Switching Temperature Display Units between Celsius and Fahrenheit  _(requires Eve app)_
 * Downloadable User Manual  _(requires Eve app)_
