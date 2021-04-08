@@ -35,7 +35,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 <br/>
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_mofffckup_2.jpg" class="center" width="650"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-New-Eve-Weather/raw/main/images/weather_main2.PNG" class="center" width="450"/>
 
 <br/>
 
